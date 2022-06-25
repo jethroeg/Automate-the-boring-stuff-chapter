@@ -12,4 +12,6 @@ for i in numbers:
 print('you have ' + str(even) + ' even numbers and ' + str(odd) + ' odd numbers')
 
 
-    
+#dangit how to push
+
+
